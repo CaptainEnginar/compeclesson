@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 
-namespace LessonBasic
+namespace LessonsBasic
 {
     public class FirstLessonScript : MonoBehaviour
     {
