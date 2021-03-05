@@ -43,4 +43,5 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b1c4075aa1d35f0428b074394e8a210d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  _inputData: {fileID: 11400000, guid: a79da569d49aac1439565d22564ab030, type: 2}
+  _movementInput: {fileID: 11400000, guid: a79da569d49aac1439565d22564ab030, type: 2}
+  _rotationInput: {fileID: 11400000, guid: 82d31af7c0a6b11488d38abfe1222ae9, type: 2}
